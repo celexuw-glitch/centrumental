@@ -109,7 +109,8 @@ function utilities.get_current_time()
 end
 
 function utilities.get_timestamp()
-    return os.date("%Y-%m-%d %H:%M:%S")
+    local hours, minutes, seconds = client.system_time()
+    return string.format("%02d:%02d:%02d", hours, minutes, seconds)
 end
 
 function utilities.log_message(level, category, msg)
