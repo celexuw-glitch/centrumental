@@ -1,12 +1,1 @@
-{
-  "key12345": {
-    "username": "CentrumUser1",
-    "hwid": "5A053C722D3A1E7E",
-    "types": ["Resolver Debug", "Resolver Legend"]
-  },
-  "key67890": {
-    "username": "CentrumUser2",
-    "hwid": "5A053C722D3A1E7E",
-    "types": ["Resolver Stable"]
-  }
-}
+[{"username": "1232da", "key": "WTdyEpJWPnmeSTvaFwNHd"}]
