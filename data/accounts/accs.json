@@ -1,5 +1,5 @@
 {
-  "CentrumUser1": {
+  "key12345": {
     "username": "CentrumUser1",
     "hwid": "5A053C722D3A1E7E",
     "types": ["Resolver Stable", "Resolver Debug", "Resolver Legend"]
