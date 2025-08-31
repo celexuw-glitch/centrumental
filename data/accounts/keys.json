@@ -38,5 +38,10 @@
   "MDfw3EkyNATTGX5hNis": [
     "Resolver Stable",
     "Resolver Debug"
+  ],
+  "CUsWR": [
+    "Resolver Stable",
+    "Resolver Debug",
+    "Resolver Legend"
   ]
 }
